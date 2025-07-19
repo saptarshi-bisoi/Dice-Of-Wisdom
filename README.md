@@ -18,7 +18,8 @@ Welcome to **Dice of Wisdom** — a fun, simple web app that delivers random quo
 Here’s a quick glimpse of **Dice of Wisdom** in action:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7fa19e1-01cf-4b38-92ba-3444b05ad787" width="600" />
+  <img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/c9769625-8300-40a6-bbb3-974dd83a3c11" />
+
 </p>
 
 
