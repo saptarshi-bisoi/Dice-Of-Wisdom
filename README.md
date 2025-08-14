@@ -73,3 +73,23 @@ The app fetches random wisdom quotes from the **Advice Slip API**.
 Open your terminal (Command Prompt, Git Bash, or VS Code Terminal) and run:
 ```bash
 git clone https://github.com/saptarshi-bisoi/Dice-of-Wisdom.git
+```
+---
+## 📢 Latest Release — v1.1
+
+### What's New
+- Added **"Dice of Wisdom"** project with interactive dice rolling.
+- Displays random motivational quotes with each roll.
+- Improved UI animations and responsive design.
+
+### Improvements
+- Optimized JavaScript for smoother performance.
+- Updated CSS for better color contrast and readability.
+
+### 🚀 Deployment
+Live at: [https://dice-of-wisdom.vercel.app/](https://dice-of-wisdom.vercel.app/)
+
+---
+💾 **Download Assets**:  
+- [Source code (zip)](https://github.com/saptarshi-bisoi/Dice-of-Wisdom/archive/refs/tags/v1.1.zip)  
+- [Source code (tar.gz)](https://github.com/saptarshi-bisoi/Dice-of-Wisdom/archive/refs/tags/v1.1.tar.gz)
