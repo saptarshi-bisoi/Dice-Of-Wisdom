@@ -64,3 +64,12 @@ The app fetches random wisdom quotes from the **Advice Slip API**.
 ├── script.js         # Dice rolling logic & API handling
 ├── LICENSE           # MIT License file
 └── README.md         # Project documentation
+
+---
+```
+## 📥 Installation & Usage
+
+### 1️⃣ Clone the Repository
+Open your terminal (Command Prompt, Git Bash, or VS Code Terminal) and run:
+```bash
+git clone https://github.com/saptarshi-bisoi/Dice-of-Wisdom.git
