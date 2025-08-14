@@ -1,14 +1,22 @@
-# 🎲 Dice of Wisdom [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+# 🎲 Dice of Wisdom
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/API-Advice%20Slip-blue?style=for-the-badge" />
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+  </a>
+  <a href="https://dice-of-wisdom.vercel.app/">
+    <img src="https://img.shields.io/badge/demo-online-brightgreen" alt="Live Demo">
+  </a>
+  <a href="https://github.com/saptarshi-bisoi/Dice-of-Wisdom/releases/tag/v1.1">
+    <img src="https://img.shields.io/badge/release-v1.1-orange" alt="Latest Release">
+  </a>
+  <a href="https://github.com/saptarshi-bisoi">
+    <img src="https://img.shields.io/badge/author-saptarshi--bisoi-purple" alt="Author">
+  </a>
 </p>
 
-Welcome to **Dice of Wisdom** — a fun, interactive web app that delivers a random quote of wisdom every time you roll the dice!  
-Whether you're seeking inspiration, motivation, or just a little fun, this app has you covered.
+An interactive web app that rolls a virtual dice and displays a random motivational quote with each roll. Built with HTML, CSS, and JavaScript, featuring smooth animations and a responsive design.
+
 
 ---
 
